@@ -34,6 +34,7 @@ footer {
     font-family: Yantramanav;
     font-size: 20px;
     text-align: center;
+    color: #fff;
   }
 
   a {
@@ -104,8 +105,7 @@ footer {
     width: 99vw;
     padding-top: 1em;
     padding-bottom: 1em;
-    min-height: 10em;
-    max-height: 15em;
+    height: 15em;
     text-align: center;
   }
 
