@@ -102,9 +102,9 @@ footer {
 
   nav {
     width: 99vw;
-    padding-top: 0.5em;
+    padding-top: 0.75em;
     padding-bottom: 0.5em;
-    height: 8em;
+    height: 9.5em;
     text-align: center;
   }
 
@@ -112,7 +112,6 @@ footer {
     font-family: Yantramanav;
     font-size: 28px;
     text-align: center;
-    color: #fff;
   }
 
   a {
