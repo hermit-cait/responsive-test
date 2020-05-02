@@ -1,5 +1,6 @@
 body {
   background: #cbe8ee;
+  overflow: hidden;
 }
 
 p {
