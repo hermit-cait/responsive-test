@@ -98,15 +98,14 @@ footer {
   #content {
     width: 80vw;
     margin-top: 8vh;
-    margin-left: 9%;
+    margin-left: 7.5%;
     /*border: 1px solid white;*/
   }
 
   nav {
     width: 99vw;
-    padding-top: 0.75em;
     padding-bottom: 0.5em;
-    height: 9.8em;
+    height: 10.5em;
     text-align: center;
   }
 
@@ -118,9 +117,10 @@ footer {
 
   a {
     font-family: Yantramanav;
-    font-size: 18px;
+    font-size: 20px;
     display: block;
     padding-right: 0.3em;
+    padding-top: 0.3em;
   }
 
   footer {
