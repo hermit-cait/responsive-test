@@ -68,10 +68,13 @@
 
 /* Small devices (portrait tablets and phones, 768px and under) */
 @media screen and (max-width: 768px) {
+  * {
+    overflow: hidden;
+  }
+  
   body {
     width: 98vw;
     height: 100vh;
-    overflow: hidden;
   }
 
   main {
